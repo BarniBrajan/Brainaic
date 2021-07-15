@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Brainaic
+- 👀 I’m interested in ABAP programing. It's programing language for SAP paltofrms.
+- 🌱 I’m currently learning Dev&Ops, C#, PHP, JS/TS 
